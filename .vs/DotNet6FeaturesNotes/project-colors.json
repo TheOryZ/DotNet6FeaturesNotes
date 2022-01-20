@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f661b05-91ba-41f6-904d-716d171e5dc5": {
+      "ProjectGuid": "5f661b05-91ba-41f6-904d-716d171e5dc5",
+      "DisplayName": "WebApp_DotNet6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
