@@ -4,6 +4,7 @@
 - Top Level Statements are now set by default.
 - WebApplication and WebApplicationBuilder
 - Application Ports are now different for each application instead of 5000 and 5001.
+- IConfiguration and ConfigurationManager
 
 
 * The README.md file will be updated as notes are added. :)
